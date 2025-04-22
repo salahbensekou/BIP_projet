@@ -1,0 +1,139 @@
+[ {
+  "baseItem" : {
+    "id" : "_QKNNUGZ8EeWm5YvsrIoYzQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DemoRoutines",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "GetRandomPhoneNum",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "SQLike",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_SCtpkOoHEe-rYdTz_jn0Xw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_YgcX4OmMEe-7q4WhqIFsBA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_YgcX4OmMEe-7q4WhqIFsBA - faits_hebergement",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_U9wUQOmMEe-7q4WhqIFsBA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_YgcX4OmMEe-7q4WhqIFsBA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_YgcX4OmMEe-7q4WhqIFsBA - dim_annee",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_YgcX4OmMEe-7q4WhqIFsBA - dim_category",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_YgcX4OmMEe-7q4WhqIFsBA - dim_region",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_YgcX4OmMEe-7q4WhqIFsBA - dim_type_hebergement",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_YgcX4OmMEe-7q4WhqIFsBA - dim_ville",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "__3eH8OmUEe-4esydO7jDXA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_YgcX4OmMEe-7q4WhqIFsBA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_YgcX4OmMEe-7q4WhqIFsBA - dim_annee",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_YgcX4OmMEe-7q4WhqIFsBA - dim_category",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_YgcX4OmMEe-7q4WhqIFsBA - dim_ville",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_YgcX4OmMEe-7q4WhqIFsBA - faits_hebergement",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_icZcENIREe-6xvZchrM_JQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "routine_csv",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_rjbrwNGSEe-jsPFg6NNFWQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_CePaoNGTEe-jsPFg6NNFWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "routine_csv",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_CePaoNGTEe-jsPFg6NNFWQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
