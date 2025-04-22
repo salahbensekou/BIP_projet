@@ -10,7 +10,7 @@ DB_CONFIG = {
     'database': os.getenv('DB_DATABASE') or 'dwh_orion'
 }
 
-OPENAI_API_KEY = os.getenv('OPENAI_API_KEY') or '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'
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY') or ''
 
 DB_SCHEMA = """
 Tables:
